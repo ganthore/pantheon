@@ -53,7 +53,7 @@ Most features labeled "`Asciidoctor only`" can be made available to the native A
 
 == Pantheon Specific Elements
 
-[.additional-resources]
+[role="_additional-resources"]
 .Additional resources
 
 * link:https://access.redhat.com/articles/3131341[Support Policies for RHEL High Availability Clusters - Microsoft Azure Virtual Machines as Cluster Members]
@@ -62,6 +62,15 @@ Most features labeled "`Asciidoctor only`" can be made available to the native A
 * link:https://access.redhat.com/articles/2679211[Exploring RHEL High Availability's Components, Concepts, and Features - Overview of Transport Protocols]
 * link:https://access.redhat.com/articles/2679251[Design Guidance for RHEL High Availability Clusters - Selecting the Transport Protocol]
 
+
+[role="_additional-resources"]
+[discrete]
+== Additional resources
+* link:https://access.redhat.com/articles/3131341[Support Policies for RHEL High Availability Clusters - Microsoft Azure Virtual Machines as Cluster Members]
+* link:https://access.redhat.com/articles/3071021[Support Policies for RHEL High Availability clusters - Transport Protocols]
+* link:https://cloud.google.com/vpc/docs/vpc[VPC network overview]
+* link:https://access.redhat.com/articles/2679211[Exploring RHEL High Availability's Components, Concepts, and Features - Overview of Transport Protocols]
+* link:https://access.redhat.com/articles/2679251[Design Guidance for RHEL High Availability Clusters - Selecting the Transport Protocol]
 
 == Paragraphs
 
